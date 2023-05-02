@@ -16,3 +16,4 @@ time = time1 + time2 + time3
 
 
 print(f'Three songs last {time} minutes')
+
