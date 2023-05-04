@@ -10,6 +10,7 @@ my_favorite_songs_dict = {
     'Nowhere to Run': 2.58,
     'In This World': 4.02,
 }
+
 lasting = my_favorite_songs_dict.values()
 time1 = random.choice(list(lasting))
 time2 = random.choice(list(lasting))
