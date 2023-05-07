@@ -5,7 +5,7 @@ def minimum(arr):
         if i < min:
             min = i
         else:
-            pass
+            continue
     return min 
 
 
@@ -15,7 +15,7 @@ def maximum(arr):
         if i > max:
             max = i
         else:
-            pass
+            continue
     return max
 
 info = input('Enter integers using "," to split: ')
